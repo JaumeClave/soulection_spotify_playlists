@@ -17,7 +17,7 @@ This will create a Spotify playlist for Soulection Radio Show 460. In order to r
  Spotify Developer account is required with unique Client ID and Client Secret.
 
 ## Using ```soulection_to_spotify.py``` as a Module in Your Python Scripts
-The file may be imported as a module and used to return JavaScript requests of any website.
+The file may be imported as a module and used to create a Spotify playlist from a Soulection SoundCloud show.
 
 ``` python
 import soulection_to_spotify as ss
